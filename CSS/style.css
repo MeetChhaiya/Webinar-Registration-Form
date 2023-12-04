@@ -1,0 +1,134 @@
+.fh{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgba(42,49,77,255);
+    width: 50%;
+    height: 1000px;
+    color: white;
+
+}
+
+.flw{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top:30%;
+    margin-left: 35%;
+}
+
+.slw{
+    font-size: 25px;
+    margin-left: 28%;
+}
+
+.tlw{
+    font-size: 25px;
+    margin-left: 29%;
+    margin-top: -25px;
+}
+
+.folw{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 42%;
+}
+
+.logo{
+    height: 150px;
+    margin-left: 40%;
+}
+
+.filw{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 38%;
+}
+
+.silw{
+    font-weight: bold;
+    font-size: 25px;
+    margin-left: 46%;
+    margin-top: -20px;
+}
+
+.sh{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+}
+
+.flb{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 30%;
+    margin-left: 32%;
+}
+
+.slb{
+    font-size: 22px;
+    color: rgba(186,186,186,255);
+    margin-left: 15%;
+}
+
+.fn{
+    font-size: 20px;
+    width: 170px;
+    height: 60px;
+    margin-left: 25%;
+    margin-right: 7px;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.ln{
+    width: 170px;
+    font-size: 20px;
+    padding-left: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.email{
+    font-size: 20px;
+    width: 365px;
+    height: 60px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left: 25%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.tlb{
+    font-size: 32px;
+    margin-left: 38%;
+    margin-bottom: 0px;
+}
+
+.date{
+    margin-top: -10;
+    margin-left: 25%;
+    height: 50px;
+    width: 355px;
+    padding-left: 10px;
+    padding-right: 15px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.reg{
+    margin-left: 25%;
+    background-color: rgba(45,107,242,255);
+    height: 50px;
+    width: 385px;
+    color: white;
+    border-radius: 3px;
+}
+
+.regp{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    padding-left: 140px; 
+    padding-top: 10px;
+}
+
+.cm{
+    display: flex;
+}
